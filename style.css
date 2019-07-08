@@ -1,0 +1,27 @@
+h1 {
+	color:darkorange;
+	font-weight: bold;
+}
+
+h2 {
+	color:saddlebrown;
+	font-style:italic;
+}
+
+body {
+background-color: beige;
+text-align: center;
+}
+
+.fearme {
+	color:green;
+}
+
+ul {
+display:inline-block;
+text-align:left;
+}
+
+h1, h2 {
+	text-decoration: underline;
+}
